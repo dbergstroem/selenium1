@@ -8,6 +8,4 @@ import io.cucumber.junit.Cucumber;
 @CucumberOptions(features="src/test/resources/Features", glue="stepDefinitions")
 public class TestRunner {
 
-	asd
-	
-}
+	}
